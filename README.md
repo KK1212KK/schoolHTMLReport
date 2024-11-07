@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
     <style>
@@ -38,5 +37,4 @@ destroy everything and team sonic has to stop him.</p>
     <li>The movie seems to be following more of a Sonic X story line, shown by maria in the trailer.</li>
     <li>The assumtion that the island that Shadow is contained on is called "Prison Island" Comes from Sonic X's Prison Island.</li>
 <ol>
-    </body>
-</html>
+   
